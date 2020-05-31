@@ -21,8 +21,8 @@
 
 ### Раздел III. Порядок запуска:
 1. Клонировать/скачать репозиторий.<br>
-2. Клонировать/скачать клиентскую часть https://github.com/RomanVolkovich/ImageStorageApplicationClient, выполнить действия по запуску, указанные в readme.md.<br>
 2. Открыть файл pom.xml - импортировать зависимости.<br>
 3. Создать 2 базы данных ImageStorage, ImageStorageTest.<br>
 4. Запустить проект.<br>
-5. Для тестирования - запустить папку "src/test/java"
+5. Для тестирования - запустить папку "src/test/java".<br>
+6. Клонировать/скачать клиентскую часть https://github.com/RomanVolkovich/ImageStorageApplicationClient, выполнить действия по запуску, указанные в readme.md.<br>
